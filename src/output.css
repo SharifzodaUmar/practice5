@@ -1219,11 +1219,13 @@ video {
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   }
 
+
   .xl\:from-\[\#2f7e4133\] {
     --tw-gradient-from: #2f7e4133 var(--tw-gradient-from-position);
     --tw-gradient-to: rgb(47 126 65 / 0) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   }
+
 
   .xl\:p-\[20px\] {
     padding: 20px;

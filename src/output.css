@@ -564,15 +564,80 @@ video {
 
 .bottom-\[75px\] {
   bottom: 75px;
+
 }
 
 .left-\[150px\] {
   left: 150px;
 }
 
+.top-\[100px\] {
+  top: 100px;
+}
+
+.top-\[200px\] {
+  top: 200px;
+}
+
+.top-\[250px\] {
+  top: 250px;
+}
+
+.top-\[300px\] {
+  top: 300px;
+}
+
+.top-\[400px\] {
+  top: 400px;
+}
+
+.right-\[\] {
+  right: ;
+}
+
+.right-\[700px\] {
+  right: 700px;
+}
+
+.right-\[100px\] {
+  right: 100px;
+}
+
+.right-\[200px\] {
+  right: 200px;
+}
+
+.right-\[300px\] {
+  right: 300px;
+}
+
+.right-\[400px\] {
+  right: 400px;
+}
+
+.top-\[350px\] {
+  top: 350px;
+}
+
+.right-\[350px\] {
+  right: 350px;
+
+}
+
+.left-\[150px\] {
+  left: 150px;
+
+}
+
 .-z-0 {
   z-index: 0;
 }
+
+
+.m-auto {
+  margin: auto;
+}
+
 
 .my-\[50px\] {
   margin-top: 50px;
@@ -583,6 +648,19 @@ video {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+
+.my-\[\] {
+  margin-top: ;
+  margin-bottom: ;
+}
+
+.my-\[100px\] {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
 
 .mb-\[1px\] {
   margin-bottom: 1px;
@@ -656,6 +734,12 @@ video {
   width: 400px;
 }
 
+
+.w-\[1200px\] {
+  width: 1200px;
+}
+
+
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -683,6 +767,17 @@ video {
 .items-center {
   align-items: center;
 }
+
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+
 
 .justify-around {
   justify-content: space-around;
@@ -712,6 +807,18 @@ video {
   gap: 30px;
 }
 
+.gap-\[\] {
+  gap: ;
+}
+
+.gap-\[0px\] {
+  gap: 0px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
 .rounded-\[5px\] {
   border-radius: 5px;
 }
@@ -730,6 +837,19 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(36 88 82 / var(--tw-bg-opacity, 1));
 }
+
+
+.bg-slate-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(71 85 105 / var(--tw-bg-opacity, 1));
+}
+
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity, 1));
+}
+
+
 
 .bg-\[url\(\.\/bb\.png\)\] {
   background-image: url(./bb.png);
@@ -763,6 +883,14 @@ video {
   padding: 40px;
 }
 
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
 .px-\[25px\] {
   padding-left: 25px;
   padding-right: 25px;
@@ -776,6 +904,41 @@ video {
 .py-\[250px\] {
   padding-top: 250px;
   padding-bottom: 250px;
+
+}
+
+.py-\[30px\] {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.py-\[15px\] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.px-\[20px\] {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.px-\[10px\] {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[25px\] {
+  font-size: 25px;
+}
+
 }
 
 .text-center {
@@ -826,6 +989,13 @@ video {
 }
 
 @media (min-width: 1280px) {
+
+  .xl\:absolute {
+    position: absolute;
+  }
+
+
+
   .xl\:left-\[320px\] {
     left: 320px;
   }

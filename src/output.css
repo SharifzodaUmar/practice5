@@ -562,6 +562,86 @@ video {
   position: relative;
 }
 
+.top-\[250px\] {
+  top: 250px;
+}
+
+.top-\[150px\] {
+  top: 150px;
+}
+
+.top-\[200px\] {
+  top: 200px;
+}
+
+.top-\[10px\] {
+  top: 10px;
+}
+
+.top-\[100px\] {
+  top: 100px;
+}
+
+.left-\[50px\] {
+  left: 50px;
+}
+
+.left-\[350px\] {
+  left: 350px;
+}
+
+.left-\[200px\] {
+  left: 200px;
+}
+
+.left-\[\] {
+  left: ;
+}
+
+.left-\[150px\] {
+  left: 150px;
+}
+
+.bottom-\[150px\] {
+  bottom: 150px;
+}
+
+.bottom-\[50px\] {
+  bottom: 50px;
+}
+
+.bottom-\[100px\] {
+  bottom: 100px;
+}
+
+.bottom-\[120px\] {
+  bottom: 120px;
+}
+
+.bottom-\[10px\] {
+  bottom: 10px;
+}
+
+.bottom-\[105px\] {
+  bottom: 105px;
+}
+
+.bottom-\[90px\] {
+  bottom: 90px;
+}
+
+.bottom-\[75px\] {
+  bottom: 75px;
+}
+
+.left-\[140px\] {
+  left: 140px;
+}
+
+.left-\[120px\] {
+  left: 120px;
+}
+
 .z-\[-1\] {
   z-index: -1;
 }
@@ -576,6 +656,14 @@ video {
 
 .m-\[20px\] {
   margin: 20px;
+}
+
+.m-\[250px\] {
+  margin: 250px;
+}
+
+.m-\[200px\] {
+  margin: 200px;
 }
 
 .my-\[20px\] {
@@ -596,6 +684,21 @@ video {
 .my-\[50px\] {
   margin-top: 50px;
   margin-bottom: 50px;
+}
+
+.my-\[100px\] {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.my-\[300px\] {
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+
+.my-\[200px\] {
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 .ml-\[10px\] {
@@ -686,6 +789,26 @@ video {
   margin-top: 250px;
 }
 
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
+.mb-\[50px\] {
+  margin-bottom: 50px;
+}
+
+.mb-\[150px\] {
+  margin-bottom: 150px;
+}
+
+.mb-\[250px\] {
+  margin-bottom: 250px;
+}
+
+.mt-\[150px\] {
+  margin-top: 150px;
+}
+
 .flex {
   display: flex;
 }
@@ -738,12 +861,72 @@ video {
   height: 2600px;
 }
 
+.h-\[100vh\] {
+  height: 100vh;
+}
+
+.h-\[1200px\] {
+  height: 1200px;
+}
+
+.h-\[800px\] {
+  height: 800px;
+}
+
+.h-\[600px\] {
+  height: 600px;
+}
+
+.h-\[700px\] {
+  height: 700px;
+}
+
+.h-\[500px\] {
+  height: 500px;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
 .w-\[200px\] {
   width: 200px;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[30px\] {
+  width: 30px;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[800px\] {
+  width: 800px;
+}
+
+.w-\[600px\] {
+  width: 600px;
+}
+
+.w-\[700px\] {
+  width: 700px;
+}
+
+.w-\[0px\] {
+  width: 0px;
+}
+
+.w-\[650px\] {
+  width: 650px;
 }
 
 .grid-cols-4 {
@@ -882,6 +1065,10 @@ video {
   justify-content: flex-start;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .justify-between {
   justify-content: space-between;
 }
@@ -967,6 +1154,31 @@ video {
   background-color: rgb(74 4 78 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[\#245852\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(36 88 82 / var(--tw-bg-opacity, 1));
+}
+
+.bg-yellow-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(202 138 4 / var(--tw-bg-opacity, 1));
+}
+
+.bg-slate-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity, 1));
+}
+
+.bg-slate-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(148 163 184 / var(--tw-bg-opacity, 1));
+}
+
+.bg-stone-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(41 37 36 / var(--tw-bg-opacity, 1));
+}
+
 .bg-\[url\(\.\/bb\.png\)\] {
   background-image: url(./bb.png);
 }
@@ -995,6 +1207,14 @@ video {
   padding: 10px;
 }
 
+.p-\[100px\] {
+  padding: 100px;
+}
+
+.p-\[40px\] {
+  padding: 40px;
+}
+
 .px-\[25px\] {
   padding-left: 25px;
   padding-right: 25px;
@@ -1003,6 +1223,41 @@ video {
 .py-\[10px\] {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.py-\[\] {
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.py-\[200px\] {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.py-\[100px\] {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.py-\[300px\] {
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.py-\[2050px\] {
+  padding-top: 2050px;
+  padding-bottom: 2050px;
+}
+
+.py-\[250px\] {
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.py-\[40px\] {
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .text-center {
@@ -1065,12 +1320,61 @@ video {
 }
 
 @media (min-width: 1280px) {
+  .xl\:left-\[200px\] {
+    left: 200px;
+  }
+
+  .xl\:top-\[100px\] {
+    top: 100px;
+  }
+
+  .xl\:top-\[150px\] {
+    top: 150px;
+  }
+
+  .xl\:top-\[170px\] {
+    top: 170px;
+  }
+
+  .xl\:left-\[250px\] {
+    left: 250px;
+  }
+
+  .xl\:left-\[35px\] {
+    left: 35px;
+  }
+
+  .xl\:left-\[px\] {
+    left: px;
+  }
+
+  .xl\:left-\[100px\] {
+    left: 100px;
+  }
+
+  .xl\:left-\[300px\] {
+    left: 300px;
+  }
+
+  .xl\:left-\[350px\] {
+    left: 350px;
+  }
+
+  .xl\:left-\[320px\] {
+    left: 320px;
+  }
+
   .xl\:m-auto {
     margin: auto;
   }
 
   .xl\:m-0 {
     margin: 0px;
+  }
+
+  .xl\:my-0 {
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
   .xl\:ml-\[100px\] {
@@ -1169,6 +1473,14 @@ video {
     height: 1386px;
   }
 
+  .xl\:h-\[922px\] {
+    height: 922px;
+  }
+
+  .xl\:h-\[517px\] {
+    height: 517px;
+  }
+
   .xl\:w-\[440px\] {
     width: 440px;
   }
@@ -1179,6 +1491,46 @@ video {
 
   .xl\:w-\[1200px\] {
     width: 1200px;
+  }
+
+  .xl\:w-full {
+    width: 100%;
+  }
+
+  .xl\:w-\[\] {
+    width: ;
+  }
+
+  .xl\:w-\[800px\] {
+    width: 800px;
+  }
+
+  .xl\:w-\[1000px\] {
+    width: 1000px;
+  }
+
+  .xl\:w-\[1400px\] {
+    width: 1400px;
+  }
+
+  .xl\:w-\[650px\] {
+    width: 650px;
+  }
+
+  .xl\:w-\[100px\] {
+    width: 100px;
+  }
+
+  .xl\:w-\[70px\] {
+    width: 70px;
+  }
+
+  .xl\:gap-\[50px\] {
+    gap: 50px;
+  }
+
+  .xl\:gap-\[150px\] {
+    gap: 150px;
   }
 
   .xl\:bg-\[\#01996D\] {
@@ -1196,6 +1548,36 @@ video {
 
   .xl\:p-\[20px\] {
     padding: 20px;
+  }
+
+  .xl\:p-\[200px\] {
+    padding: 200px;
+  }
+
+  .xl\:p-\[100px\] {
+    padding: 100px;
+  }
+
+  .xl\:p-\[80px\] {
+    padding: 80px;
+  }
+
+  .xl\:p-\[0px\] {
+    padding: 0px;
+  }
+
+  .xl\:p-0 {
+    padding: 0px;
+  }
+
+  .xl\:py-\[0px\] {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .xl\:py-\[100px\] {
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 
   .xl\:pt-\[100px\] {
@@ -1222,12 +1604,24 @@ video {
     font-size: 16px;
   }
 
+  .xl\:text-\[20px\] {
+    font-size: 20px;
+  }
+
   .xl\:font-\[700\] {
     font-weight: 700;
+  }
+
+  .xl\:font-\[600\] {
+    font-weight: 600;
   }
 
   .xl\:text-\[\#01996D\] {
     --tw-text-opacity: 1;
     color: rgb(1 153 109 / var(--tw-text-opacity, 1));
+  }
+
+  .xl\:text-\[\] {
+    color: ;
   }
 }
